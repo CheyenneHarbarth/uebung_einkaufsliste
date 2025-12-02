@@ -1,3 +1,6 @@
+bier
 müsli
 joghurt
 kaffee
+
+milch
